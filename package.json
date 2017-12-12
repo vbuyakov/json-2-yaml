@@ -1,0 +1,24 @@
+{
+  "name": "json-2-yaml",
+  "version": "1.0.0",
+  "description": "A commandline utility to convert JSON to YAML / YML",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbuyakov/json-2-yaml.git"
+  },
+  "keywords": [
+    "JSON",
+    "YAML",
+    "YML"
+  ],
+  "author": "Viktor Buyakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vbuyakov/json-2-yaml/issues"
+  },
+  "homepage": "https://github.com/vbuyakov/json-2-yaml#readme"
+}
